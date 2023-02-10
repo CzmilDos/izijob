@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "948396942443",
+    "project_id": "izijob-b5155",
+    "storage_bucket": "izijob-b5155.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948396942443:android:80623af40d968931e53d2e",
+        "android_client_info": {
+          "package_name": "com.project.linkedin_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948396942443-jus1k6tjean6h0a5s439nsta4mr9s9jd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH-n2P-b33cC5SwPfSVIvF8tQHPTu9uC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948396942443-jus1k6tjean6h0a5s439nsta4mr9s9jd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
